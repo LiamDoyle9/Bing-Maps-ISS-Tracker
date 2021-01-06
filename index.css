@@ -1,0 +1,17 @@
+.body {
+  height: 100%;
+}
+
+#myMap {
+  position: relative;
+  width: 800px;
+  height: 400px;
+  background-color: bisque;
+}
+
+#infoPanel {
+  width: 400px;
+  margin: 0 auto;
+  display: inline-grid;
+  justify-content: end;
+}
